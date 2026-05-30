@@ -3,6 +3,7 @@ secondary_name: ""
 navbar_name: "Jaehyun Byun"
 
 positions:
+- name: HCI Researcher
 - name: Korea Advanced Institute of Science and Technology (KAIST)
   logo: /assets/images/badges/kaist_logo.png  # Logo is optional
 
