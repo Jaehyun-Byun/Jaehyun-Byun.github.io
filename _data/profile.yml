@@ -4,7 +4,7 @@ navbar_name: "Jaehyun Byun"
 
 positions:
 - name: HCI Researcher
-- name: Korea Advanced Institute of Science and Technology (KAIST)
+- name: Department of Industrial Design, KAIST
   logo: /assets/images/badges/kaist_logo.png  # Logo is optional
 
 
@@ -35,7 +35,7 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: KAIST
+- name: Korea Advanced Institute of Science and Technology
   logo: /assets/images/badges/kaist_logo.png
   position: >- 
     M.S. in Industrial Design
