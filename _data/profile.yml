@@ -40,11 +40,11 @@ education:
   position: Bachelor of Engineering in Computer Science and Engineering
   date: Mar. 2020 - Feb. 2026
 
-services:
-- name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
-  date: 2026
-
 awards:
 - name: ACM CHI Student Design Competition Finalist (Top 4, First Author)
   date: 2025 
+
+services:
+- name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
+  date: 2026
 
