@@ -4,7 +4,7 @@ navbar_name: "Jaehyun Byun"
 
 positions:
 - name: HCI Researcher
-- name: Korea Advanced Institute of Science and Technology, Industrial Design
+- name: KAIST, Industrial Design
   logo: /assets/images/badges/kaist_logo.png  # Logo is optional
 
 
@@ -35,20 +35,21 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: KAIST
+- name: Korea Advanced Institute of Science and Technology (KAIST)
   logo: /assets/images/badges/kaist_logo.png
   position: >- 
-    M.S. in Industrial Design
+    Master of Science in Industrial Design
   date: Sep. 2026 - present
 - name: Kyung Hee University
   logo: /assets/images/badges/kyunghee_logo.jpg
-  position: B.S. in Computer Science
+  position: Bachelor of Engineering in Computer Science
   date: Mar. 2020 - Feb. 2026
 
-awards:
+services:
 - name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
+  date: 2026
 
 awards:
-- name: ACM CHI Student Design Competition Finalist (Top 4)
+- name: ACM CHI Student Design Competition Finalist (Top 4, First Author)
   date: 2025 
 
