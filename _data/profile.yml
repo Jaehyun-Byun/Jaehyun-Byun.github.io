@@ -39,11 +39,11 @@ education:
   logo: /assets/images/badges/kaist_logo.png
   position: >- 
     M.S. in Industrial Design
-  date: Sep. 2024 - present
+  date: Sep. 2026 - present
 - name: Kyung Hee University
   logo: /assets/images/badges/kyunghee_logo.jpg
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Mar. 2020 - Feb. 2026
 
 # experience:
 # - name: Peking University
@@ -54,3 +54,7 @@ education:
 awards:
 - name: ACM CHI 2025 Student Design Competition (Top 4)
   date: 2025
+
+services:
+- name: Reviewer, ACM CHI 2026
+- name: Reviewer, ACM UIST 2025
