@@ -46,12 +46,8 @@ education:
   date: Mar. 2020 - Feb. 2026
 
 experience:
- - name: Peking University
-   logo: /assets/images/badges/PKU_red.png
-   position: Research Intern
-   date: Sep. 2019 - Jul. 2021
+- name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
 
 awards:
 - name: ACM CHI 2025 Student Design Competition Finalist (Top 4, First Author)
-- name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
 
