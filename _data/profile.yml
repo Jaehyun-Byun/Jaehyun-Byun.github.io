@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Jaehyun Byun"
 
 positions:
-- name: Graduate Student, Dept. of Industrial Design
+- name: Graduate Student, Industrial Design
 - name: Korea Advanced Institute of Science and Technology (KAIST)
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
@@ -36,13 +36,13 @@ portrait_caption: >-
 
 education:
 - name: KAIST
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/kaist_logo.jpg
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: Sep. 2024 - present
 - name: Kyung Hee University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/kyunehee_logo.png
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
 
