@@ -19,4 +19,6 @@ authors:
   - Wooky Won
 
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3706599.3720300
+  Video: https://www.youtube.com/watch?v=Viuxw1HnCkw&t=5s
 ---

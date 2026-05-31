@@ -21,4 +21,6 @@ authors:
   - Sangkeun Park
   - Seungjae Oh
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3746058.3758348
+  Video: https://www.youtube.com/watch?v=j1E37wnWhfA&t=1s
 ---
