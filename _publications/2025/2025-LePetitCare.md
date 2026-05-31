@@ -5,7 +5,7 @@ selected:       true
 pub:            " Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="text-em"><i class="fas fa-award mr-1"></i>Finalist (Top 4)</span>'      
+pub_last:       '<span class="text-em"><i class="fas fa-award mr-1"></i>Finalist</span>'      
 pub_date:       "2025"
 semantic_scholar_id: 1ca91ea36e3bc5b13ce3f047984a1343351a4180  # use this to retrieve citation count
 abstract: >-
