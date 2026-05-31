@@ -10,8 +10,8 @@ positions:
 
 email: "bjh1750@email.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+gscholar: wDezFkcAAAAJ&hl=ko  # This is an example, replace it with your own Google Scholar ID
+github: DevByn
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -37,7 +37,7 @@ education:
 - name: Kyung Hee University
   logo: /assets/images/badges/kyunghee_logo.jpg
   position: Bachelor of Engineering in Computer Science and Engineering
-  date: Mar. 2020 - Feb. 2026
+  date: Mar. 2020 - Feb. 2026 (Military Services: 2021 - 2022)
 
 services:
   - name: Reviewer, IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
