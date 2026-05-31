@@ -1,6 +1,6 @@
 ---
 title:          "Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality"
-date:           2025-10-1 00:01:00 +0800
+date:           2025-5-4 00:01:00 +0800
 selected:       true
 pub:            " Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (CHI EA ’25), "
 # pub_pre:        "Submitted to "
