@@ -7,7 +7,7 @@ pub:            "Adjunct Proceedings of the 38th Annual ACM Symposium on User In
 # pub_post:       'Under review.'
 pub_last:       
 pub_date:       "2025"
-semantic_scholar_id: 8339449456129879818  # use this to retrieve citation count
+semantic_scholar_id: 318e170821c9b7a7efd9526367b8cb5fe1dd47bd  # use this to retrieve citation count
 abstract: >-
   Remote users often face significant challenges in remote collaboration systems when joining virtual scenes reconstructed from a local user’s environment. They are disadvantaged by the information asymmetry inherent in a shared virtual environment compared to local users. We present CrossGaussian, a VR collaboration system designed to address these limitations by providing remote users with a comprehensive 3D interactive view of the shared environment, created using 3DGS. It blends 360° video streaming and a large-scale 3DGS reconstruction via our automated pipeline. We then define the design space for visualization and interaction techniques that combine wide-coverage 3D and responsive 360° scenes.
 cover:          /assets/images/covers/Crossgaussian_cover.jpg.jpg
