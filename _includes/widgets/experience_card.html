@@ -3,9 +3,8 @@
         <div class="card border-0 shadow-sm bg-white">
             <div class="card-body p-4">
                 
-                <!-- 1. Education 섹션 -->
                 {% if site.data.profile.education %}
-                <div class="row mb-4">
+                <div class="row mb-2">
                     <div class="col-12">
                         <div class="mx-2 my-1">
                             <h6>Education</h6>
@@ -29,9 +28,8 @@
                 </div>
                 {% endif %}
 
-                <!-- 2. Experience 섹션 -->
                 {% if site.data.profile.experience %}
-                <div class="row mb-4">
+                <div class="row mb-2">
                     <div class="col-12">
                         <div class="mx-2 my-1">
                             <h6>Experience</h6>
@@ -55,14 +53,13 @@
                 </div>
                 {% endif %}
 
-                <!-- 3. Honors & Awards 섹션 -->
-                {% if site.data.profile.awards %}
-                <div class="row mb-4">
+                {% if site.data.profile.services %}
+                <div class="row mb-2">
                     <div class="col-12">
                         <div class="mx-2 my-1">
-                            <h6>Honors & Awards</h6>
+                            <h6>Professional Services</h6>
                             <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
+                                {% for item in site.data.profile.services %}
                                 <li>
                                     <div class="d-flex">
                                         <div>{{ item.name }}</div>
@@ -75,15 +72,14 @@
                     </div>
                 </div>
                 {% endif %}
-
-                <!-- 4. Professional Service 섹션 (추가됨) -->
-                {% if site.data.profile.services %}
-                <div class="row">
+                
+                {% if site.data.profile.awards %}
+                <div class="row mb-0">
                     <div class="col-12">
                         <div class="mx-2 my-1">
-                            <h6>Professional Services</h6>
+                            <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.services %}
+                                {% for item in site.data.profile.awards %}
                                 <li>
                                     <div class="d-flex">
                                         <div>{{ item.name }}</div>
